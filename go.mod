@@ -1,4 +1,4 @@
-module generic-db-lib
+module github.com/ssoifer/generic-db-lib
 
 go 1.18
 
